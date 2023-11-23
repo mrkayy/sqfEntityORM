@@ -18,8 +18,8 @@ dependencies:
   sqfentity_gen:
     # path: ./../sqfentity_gen
     git:
-      url: https://github.com/quicktel-solution/sqfEntity.git
-      ref: branch-x
+      url: https://github.com/mrkayy/sqfEntityORM.git
+      ref: master
       path: sqfentity_gen
   sqflite_common: ^2.2.1+1
   sqflite_common_ffi: ^2.1.1+1
